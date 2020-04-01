@@ -1,3 +1,3 @@
-###Run GATLING tests
+Run GATLING tests
 
 `mvn clean gatling:test`
