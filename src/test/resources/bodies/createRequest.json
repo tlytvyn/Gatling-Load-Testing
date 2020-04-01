@@ -1,0 +1,7 @@
+{
+  "request": {
+    "requester": { "name": "Anonymous customer" },
+    "subject": "Zendesk load testing subject for Support API",
+    "comment": { "body": "Support API Zendesk load testing example request comment..." }
+  }
+}
